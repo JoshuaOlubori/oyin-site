@@ -24,10 +24,10 @@ const Footer = () => {
                     <a href="https://www.instagram.com/oyinkansola_adetoyinbo" className="footer__social-link" target="_blank">
                         <i className="bx bxl-instagram"></i>
                     </a>
-                    <a href="https://www.linkedin.com/in/oyinkansola_adetoyinbo" className="footer__social-link" target="_blank">
+                    <a href="https://www.linkedin.com/in/oyinkansola-adetoyinbo-741b0b14b" className="footer__social-link" target="_blank">
                         <i class='bx bxl-linkedin-square'></i></a>
                         
-                    <a href="https://github.com/oyinkansola_adetoyinbo
+                    <a href="https://github.com/oyinkansolaadetoyinbo
 " className="footer__social-link" target="_blank">
                         <i className="bx bxl-github"></i>
                     </a>
