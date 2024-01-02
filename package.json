@@ -1,7 +1,6 @@
 {
-  "name": "tutorial-b",
+  "name": "oyin-site",
   "version": "0.1.0",
-  "homepage": "http://JoshuaOlubori.github.io/portfolio-react1",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
